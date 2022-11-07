@@ -1,5 +1,5 @@
 # PHYS449-Project--Group6
-Authors: Jamie Farquharson, Delaney Dyment, Kohl Hedley, Jonathan Irving
+Authors: Jamie Farquharson, Delaney Dyment, Kohl Hedley
 
 Reference paper: https://doi.org/10.1140/epjs/s11734-021-00203-z 
 
